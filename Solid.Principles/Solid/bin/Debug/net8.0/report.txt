@@ -1,0 +1,2 @@
+Title: Monthly Report
+Content: This is the content of the monthly report.
